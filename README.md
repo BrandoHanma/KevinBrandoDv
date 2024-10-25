@@ -20,8 +20,8 @@ const kevin = {
 
 ### 🌐 Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Vicente-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](tu_linkedin)
-<a href="https://tourmaline-beijinho-58d77e.netlify.app">  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Vicente-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](mi_linkedin)
+[![portafolio](https://tourmaline-beijinho-58d77e.netlify.app)](portafolio)
 [![Phone](+1 (809) 643-3466)](tu_telefono)
 
 ---

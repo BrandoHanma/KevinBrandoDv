@@ -21,8 +21,8 @@ const kevin = {
 ### 🌐 Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Vicente-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](tu_linkedin)
-[![Portfolio](https://tourmaline-beijinho-58d77e.netlify.app)](tu_portafolio)
-[![Phone](https://img.shields.io/badge/Phone-Tu_Número-25D366?style=flat&logo=whatsapp&logoColor=white&labelColor=101010)](tu_telefono)
+<a href="https://tourmaline-beijinho-58d77e.netlify.app">  </a>
+[![Phone](+1 (809) 643-3466)](tu_telefono)
 
 ---
 

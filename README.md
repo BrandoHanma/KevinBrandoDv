@@ -1,8 +1,7 @@
-##
-<h2 align="center">Soy Kevin Brando Vicente Valerio 💻</h2>
-![Bg](https://github.com/BrandoHanma/Proyecto-web/blob/2e0e4c5ddbe3187d00dff76344b774206ae8b70e/Proyecto-web/assets/img/bgkevinDv.png) 
-
-
+<div>
+    <h2 align="center">Soy Kevin Brando Vicente Valerio 💻</h2>
+</div>
+<img src=https://github.com/BrandoHanma/Proyecto-web/blob/2e0e4c5ddbe3187d00dff76344b774206ae8b70e/Proyecto-web/assets/img/bgkevinDv.png>
 <h3 align="center">Ingeniero de Software apasionado por la tecnología</h3>
 
 ---

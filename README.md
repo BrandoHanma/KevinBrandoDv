@@ -35,9 +35,9 @@ const kevin = {
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+    <img src="https://github-readme-stats.vercel.app/api?BrandoHanma=KevinBrando.Dv&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </div>
 
 ---
 
-⭐️ From [Kevin-Vicente](https://github.com/TU_USUARIO)
+⭐️ From [Kevin-Vicente](https://github.com/BrandoHanma)

@@ -22,8 +22,7 @@ const kevin = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Vicente-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kevin-brando-vicente-205421242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Kevin_Vicente-47CCCC?style=flat&logo=google-chrome&logoColor=white&labelColor=101010)](https://tourmaline-beijinho-58d77e.netlify.app)
-[![Phone](+1 (809) 643-3466)](tu_telefono)
-
+[![Phone](https://img.shields.io/badge/Phone-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/+1 (809) 643-3466)
 ---
 
 ### 💡 Mis Principios
